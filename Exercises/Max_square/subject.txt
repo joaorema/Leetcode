@@ -1,0 +1,39 @@
+Max_square
+
+
+a farmer wants to farm their land with the maximum area where good land is present.
+The land is represented as a matrix with 1s and 0s, where 1s mean good land and 0s means bad land.
+The farmer only wants to farm in a square of good land with the maximum area.
+
+
+Exemple :
+
+
+01101
+11010
+01110
+11110
+11111
+00000
+
+
+
+---------------------------------------------------------------
+
+
+Exercise: Prefix Sum of an Array
+Problem:
+Given an array of integers, compute a new array where each element at index i is the sum of all elements from index 0 to i in the original array.
+
+Example:
+Input:
+
+Output:
+
+Task:
+
+Write a function in C (or C++) that takes an array and its size as input, and fills another array with the prefix sums.
+Print the prefix sum array.
+
+
+
